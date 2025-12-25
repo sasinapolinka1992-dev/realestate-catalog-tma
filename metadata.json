@@ -1,0 +1,5 @@
+{
+  "name": "RealEstate Catalog TMA",
+  "description": "A high-performance Telegram Mini App for real estate developers featuring property catalog, filters, promotions, and lead generation.",
+  "requestFramePermissions": []
+}
